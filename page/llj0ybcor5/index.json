@@ -1,0 +1,39 @@
+{
+  "id": "llj0ybcor5",
+  "name": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "description": {
+    "tr": "Stüdyodan ve bakım anlarından fotoğraflar (kurgusal).",
+    "en": "Photos from the studio and care moments (fictional).",
+    "ar": "صور من الاستوديو ولحظات العناية (افتراضية)."
+  },
+  "keyword": {
+    "tr": "galeri, fotoğraf",
+    "en": "gallery, photos",
+    "ar": "معرض، صور"
+  },
+  "path": "galeri",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "7psqou"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "date": "2026-10-31T14:41:12.578Z",
+  "update": "2026-11-05T22:24:53.565Z"
+}

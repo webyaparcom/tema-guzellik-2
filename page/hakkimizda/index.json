@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 4,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "2v9jg7",
+      "umvy2h"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Nar Atölye hakkında.",
+    "en": "About Nar Atolye.",
+    "ar": "عن نار أتوليه."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-05T22:24:53.571Z",
+  "date": "2026-10-30"
+}
